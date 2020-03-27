@@ -1,0 +1,90 @@
+body
+{
+    padding: 2px;
+    display: table;
+}
+header
+{
+    padding-top: 25px;
+    display: inline-flex;
+  
+   
+}
+.search
+{
+    display: inline-flex;
+    vertical-align: top;
+    margin-left: 910px;
+
+}
+.navbar
+{
+    background-color : rgb(163, 42, 52);
+    border: black solid 1px;
+    padding: 2px;
+}
+.navlink
+{
+    padding: 20px;
+}
+.block1
+{
+    background-color: #242424;
+    display: inline-flex;
+    width: 100%;
+}
+.image1
+{
+    margin-left: 200px;
+}
+.collumn
+{
+    text-align: center;
+    width: auto;
+}
+.collumns
+{
+    column-count: 4;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+
+}
+.imgcollumn
+{
+    width: 200px;
+}
+footer
+{
+    background-color:rgb(167, 23, 59);
+    padding: 10px;
+
+}
+.wlink
+{
+    color: white;
+}
+.textblock1
+{
+    color: rgb(241, 16, 16);
+    margin-top: 25px;
+    margin-left: 15px;
+    padding: 10px;
+}
+.textblock2
+{
+    margin-left: 15px;
+    padding: 10px;
+    color: white;
+}
+a
+{
+    color: white;
+    border-left: white solid px;
+   
+}
+.searchinput
+{
+    width: auto;
+}

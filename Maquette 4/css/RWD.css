@@ -1,0 +1,23 @@
+ /* css */
+
+    .text {
+        font-size: 14px;
+    }
+    /* affiche le texte en corps 16px lorsque le média dispose d'une largeur d'affichage au minimum de 780px */
+    @media (min-width: 780px) {
+      .text {
+        font-size: 16px;
+      }
+    }
+
+    /* scss / less */
+
+    .text {
+        /* affiche le texte en corps 14px */
+        font-size: 14px;
+
+        /* affiche le texte en corps 16px lorsque le média dispose d'une largeur d'affichage au minimum de 780px */
+        @media (min-width: 780px) {
+            font-size: 16px;
+        }
+    }
